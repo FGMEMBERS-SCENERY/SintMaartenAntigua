@@ -1,0 +1,1 @@
+1) Replace the caribbean.xml in $FGDATA/Materials/regions/ with the one in Materials/ (secure the old one before e.g. copy to caribbean.xml.old) 
